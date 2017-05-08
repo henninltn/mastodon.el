@@ -19,11 +19,6 @@ Mastodon client on Emacs.
 ## Installation
 
 
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
-
 ## Author
 
 [hennin](https://gitlab.com/hennin)
